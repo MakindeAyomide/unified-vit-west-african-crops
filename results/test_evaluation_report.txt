@@ -1,0 +1,37 @@
+Final Test Accuracy: 81.21%
+
+                                                    precision    recall  f1-score   support
+
+                  Cassava_Cassava_Bacterial_Blight     0.4839    0.5521    0.5158       163
+              Cassava_Cassava_Brown_Streak_Disease     0.7033    0.5258    0.6017       329
+                      Cassava_Cassava_Green_Mottle     0.7524    0.4413    0.5563       358
+                           Cassava_Cassava_Healthy     0.5978    0.5530    0.5745       387
+                    Cassava_Cassava_Mosaic_Disease     0.8598    0.9630    0.9085      1974
+                                      Maize_Blight     0.9635    0.7674    0.8544       172
+                                 Maize_Common_Rust     0.8478    0.9949    0.9155       196
+                              Maize_Gray_Leaf_Spot     0.9067    0.7907    0.8447        86
+                                     Maize_Healthy     0.9255    1.0000    0.9613       174
+              Pepper_Pepper__bell___Bacterial_spot     1.0000    0.9866    0.9932       149
+                     Pepper_Pepper__bell___healthy     0.9910    1.0000    0.9955       221
+                      Potato_Potato___Early_blight     0.9868    1.0000    0.9934       150
+                       Potato_Potato___Late_blight     0.9250    0.9867    0.9548       150
+                           Potato_Potato___healthy     0.9565    0.9565    0.9565        23
+                            Taro_Taro_Early_Blight     0.5546    0.5562    0.5554       730
+                                 Taro_Taro_Healthy     0.7970    0.9428    0.8638      1312
+                             Taro_Taro_Late_Blight     0.3158    0.0316    0.0574       190
+                              Taro_Taro_Mid_Blight     0.7550    0.2253    0.3470       506
+                               Taro_Taro_Not_Early     0.4390    0.7175    0.5447       446
+                      Tomato_Tomato_Bacterial_spot     0.9905    0.9843    0.9874       319
+                        Tomato_Tomato_Early_blight     0.9851    0.8800    0.9296       150
+                         Tomato_Tomato_Late_blight     0.9855    0.9477    0.9663       287
+                           Tomato_Tomato_Leaf_Mold     1.0000    0.9720    0.9858       143
+                  Tomato_Tomato_Septoria_leaf_spot     0.9777    0.9887    0.9832       266
+Tomato_Tomato_Spider_mites_Two_spotted_spider_mite     0.9838    0.9681    0.9759       251
+                        Tomato_Tomato__Target_Spot     0.8966    0.9905    0.9412       210
+      Tomato_Tomato__Tomato_YellowLeaf__Curl_Virus     0.9897    1.0000    0.9948       481
+                Tomato_Tomato__Tomato_mosaic_virus     1.0000    1.0000    1.0000        56
+                             Tomato_Tomato_healthy     1.0000    0.9748    0.9872       238
+
+                                          accuracy                         0.8121     10117
+                                         macro avg     0.8473    0.8172    0.8188     10117
+                                      weighted avg     0.8104    0.8121    0.7967     10117
