@@ -49,10 +49,10 @@ This proposal depends on reliable group metadata. If the current images do not i
 | Member | Contribution / assigned role |
 |---|---|
 | Makinde Ayomide Daniel (2023/12127) | Team lead and implementation lead |
-| Sanni Samiat Ajoke | Literature reviewer |
-| Sodamade Ismail | Writing coordinator |
-| Nweze Sharon | Visualisation specialist |
-| Shittu Qais Ayomide | Documentation support |
+| Sanni Samiat Ajoke (2023/12454) | Literature reviewer |
+| Sodamade Ismail (2023/12228) | Writing coordinator |
+| Nweze Sharon Adaeze (2023/12602) | Visualisation specialist |
+| Shittu Qais Ayomide (2023/12688) | Documentation support |
 | Izundu Victor Chidera (2023/12156) | Literature evidence and evaluation lead; assigned ten-paper review and research-gap synthesis |
 
 ## Repository contents
